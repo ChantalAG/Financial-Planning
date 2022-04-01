@@ -24,8 +24,15 @@ The documentation for these APIs can be found via the following links:
 * [AlpacDOCS](https://alpaca.markets/docs/)
 
 ## Technologies
+* Jupyter Notebook
+* Pandas
 
 ## Installation Guide
+To develop the personal finance planner prototype, the following assumptions were used:
+* The average household income for each user is $12,000.
+* Every user has a savings portfolio composed of cryptocurrencies, stocks and bonds.
+* Amount of crypto assets: 1.2 BTC and 5.3 ETH.
+* Amount of shares in stocks and bonds: 50 SPY (stocks) and 200 AGG (bonds).
 
 ## Examples
 
