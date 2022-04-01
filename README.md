@@ -1,5 +1,8 @@
 # Financial-Planning
 Financial Planning - API Assignment
+
+<img src="https://github.com/ChantalAG/Financial-Planning/blob/main/Financial-Planning.jpg" width="400" height="200">
+
 ## Background
 
 The financial analysis tools in this project will use APIs to help users enhance financial health, assess monthly personal finances, and be able to forecast a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds.
@@ -10,7 +13,7 @@ The second will be a retirement planning tool that will use the Alpaca API to fe
 
 ## Resources
 Files:
-* [MC ForecastTools.py](https://github.com/ChantalAG/Financial-Planning/blob/main/MCForecastTools.py)
+* [MC ForecastTools Toolkit](https://github.com/ChantalAG/Financial-Planning/blob/main/MCForecastTools.py)
 
 This project will utilize two APIs:
 * The Alpaca Markets API will be used to pull historical stocks and bonds information.
