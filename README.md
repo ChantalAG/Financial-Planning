@@ -19,16 +19,12 @@ The following assumptions were used:
 
 
 ## Resources
-Files:
+
 * [MC ForecastTools Toolkit](https://github.com/ChantalAG/Financial-Planning/blob/main/MCForecastTools.py)
+* The Alpaca Markets API will be used to pull historical stocks and bonds information:[AlpacDOCS](https://alpaca.markets/docs/) 
+* The Alternative Free Crypto API will be used to retrieve Bitcoin and Ethereum prices: [Free Crypto API Documentation](https://alternative.me/crypto/api/)
 
-This project will utilize two APIs:
-* The Alpaca Markets API will be used to pull historical stocks and bonds information.
-* The Alternative Free Crypto API will be used to retrieve Bitcoin and Ethereum prices.
 
-The documentation for these APIs can be found via the following links:
-* [Free Crypto API Documentation](https://alternative.me/crypto/api/)
-* [AlpacDOCS](https://alpaca.markets/docs/)
 
 ## Technologies Used 
 * Jupyter Notebook
@@ -40,7 +36,7 @@ Visualization of savings:
 
 <img src = "https://github.com/ChantalAG/Financial-Planning/blob/main/Images/Composition%20of%20Personal%20Savings.png">
 
-Montecarlo simulation results and the probability distribution/confidence intervals for 30 years, 5 years and 10 years for retirement portfolio. 
+Retirement portfolio montecarlo simulation results and the probability distribution/confidence intervals for 30 years.
 
 <img src = "https://github.com/ChantalAG/Financial-Planning/blob/main/Images/MC_thirtyyear_sim_plot.png">
 <img src = "https://github.com/ChantalAG/Financial-Planning/blob/main/Images/thirtyyear_dist_plot.png">
