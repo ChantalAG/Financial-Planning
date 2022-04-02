@@ -21,8 +21,10 @@ The following assumptions were used:
 ## Resources
 
 * [MC ForecastTools Toolkit](https://github.com/ChantalAG/Financial-Planning/blob/main/MCForecastTools.py)
-* The Alpaca Markets API was used to pull historical stocks and bonds information: [AlpacDOCS](https://alpaca.markets/docs/) 
-* The Alternative Free Crypto API was used to retrieve Bitcoin and Ethereum prices: [Free Crypto API Documentation](https://alternative.me/crypto/api/)
+* The Alpaca Markets API was used to pull historical stocks and bonds information.
+* [AlpacDOCS](https://alpaca.markets/docs/) 
+* The Alternative Free Crypto API was used to retrieve Bitcoin and Ethereum prices.
+* [Free Crypto API Documentation](https://alternative.me/crypto/api/)
 
 
 
