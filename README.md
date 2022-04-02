@@ -36,7 +36,8 @@ The documentation for these APIs can be found via the following links:
 * API 
 
 ## Examples
-Visualization of savings 
+Visualization of savings:
+<img src = "https://github.com/ChantalAG/Financial-Planning/blob/main/Images/Composition%20of%20Personal%20Savings.png">
 
 Montecarlo simulation results and the probability distribution/confidence intervals for 30 years, 5 years and 10 years for retirement portfolio. 
 
