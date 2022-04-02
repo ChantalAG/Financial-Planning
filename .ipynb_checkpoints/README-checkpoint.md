@@ -30,15 +30,16 @@ The documentation for these APIs can be found via the following links:
 * [Free Crypto API Documentation](https://alternative.me/crypto/api/)
 * [AlpacDOCS](https://alpaca.markets/docs/)
 
-## Technologies Used 
+## Technologies
 * Jupyter Notebook
 * Pandas 1.3.5
-* API 
+
+## Installation Guide
+![image](https://user-images.githubusercontent.com/99493522/161303918-b2c987bb-0ac7-4232-b49c-5e637d55c2d4.png)
+
 
 ## Examples
-Visualization of savings 
 
-Montecarlo simulation results and the probability distribution/confidence intervals for 30 years, 5 years and 10 years for retirement portfolio. 
 
 
 
