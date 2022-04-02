@@ -41,7 +41,7 @@ Visualization of savings:
 
 Montecarlo simulation results and the probability distribution/confidence intervals for 30 years, 5 years and 10 years for retirement portfolio. 
 
-
+<img src = "https://github.com/ChantalAG/Financial-Planning/blob/main/Images/MC_thirtyyear_sim_plot.png">
 
 ## Contributors
 Chantal Garnett 
